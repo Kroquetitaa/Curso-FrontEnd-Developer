@@ -9,6 +9,7 @@
 - Tipos de selectores: pseudoclases y pseudoelementos.
 
 |Pseudoclases|Pseudoelementos|
+|------------|---------------|
 |   :active  |    ::after    |
 |   :focus   |    ::before   |
 |   :hover   |::first-letter |
