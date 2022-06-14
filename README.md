@@ -16,9 +16,12 @@
 | :ntn-child | ::placeholder |
 
 - Reglas de CSS segun mayor prioridad a menor
-> !important
-> Estilos en linea
-> #ID
-> Clases, atributos y pseudoclases.
-> Elementos y pseudoelementos
-> Selector universal
+> !important,
+> Estilos en linea,
+> #ID,
+> Clases, atributos y pseudoclases,
+> Elementos y pseudoelementos,
+> Selector universal,
+
+- Tipos de display mas usados: block, inline e inline-block
+- Tipos de display más usados: flexbox y CSS grid
