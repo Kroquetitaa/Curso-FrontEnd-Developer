@@ -14,3 +14,11 @@
 |   :focus   |    ::before   |
 |   :hover   |::first-letter |
 | :ntn-child | ::placeholder |
+
+- Reglas de CSS segun mayor prioridad a menor
+> !important
+> Estilos en linea
+> #ID
+> Clases, atributos y pseudoclases.
+> Elementos y pseudoelementos
+> Selector universal
